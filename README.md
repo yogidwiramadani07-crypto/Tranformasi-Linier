@@ -72,4 +72,23 @@ T(AB) = (AB)*T
       = B*T A*T
       = T(B) T(A) = T(A) T(B)
 ```
-## 
+## Matriks standar
+```
+T1(x,y,z)=(2x+y,0,x+z)
+Matriksnya :
+A1 = |2 1 0|
+     |0 0 0| (matrik standar T1)
+     |1 0 1|
+```
+## Gabungan Matrik standar
+```
+matrik standar T = T2 o T1
+A = A1.A2
+matrik standar T' = T2 o T1
+A' = A1.A2
+```
+## Tugas
+```
+T1 =
+T2 =
+```

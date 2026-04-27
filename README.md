@@ -64,4 +64,12 @@ Implementasinya ke matrik yaitu :
 | 2  1 | = |u1|
 |-1 -2 |   |u2|
 ```
+## Transformasi dari M(mxn) ke M(nxm)
+```
+T(A) = A*t (T :  M(mxn) ke M(nxm))
+T(A+B+C) = (A+B+C)*T
+T(AB) = (AB)*T
+      = B*T A*T
+      = T(B) T(A) = T(A) T(B)
+```
 ## 

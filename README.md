@@ -1,23 +1,25 @@
 # Tranformasi-Linier
 ## Rumus Vektor (V) dan Mencari daerah asal (W)
 ```
-R2 = Dimensi 2
-T=(v1,v2) = (v1-v2, v1+2v2)
-W=(v1,v2) = (-1,11), Lakukan subtitusi persamaan linier
+~ R = Ruang Dimensi
+Contoh : R2 > R3
+Jadi Ruang Dimensi 2 > Ruang Dimensi 3
+~ T=(v1,v2) = (v1-v2, v1+2v2)
+~ W=(v1,v2) = (-1,11), Lakukan subtitusi persamaan linier
 contoh = v1 - v2 = -1
          v1 + 2v2 = 11
          -------------  -
 ```
 ## Penjumlahan Vektor
 ```
-T=(v1,v2) = (v1-v2, v1+2v2)
-u + v = (u1,u2)+(v1,v2)=(u1+v1,u2+v2)
+~ T=(v1,v2) = (v1-v2, v1+2v2)
+~ u + v = (u1,u2)+(v1,v2)=(u1+v1,u2+v2)
 ```
 
 ## Perkalian Vektor
 ```
-T=(v1,v2) = (v1-v2, v1+2v2)
-cu = c(u1,u2) = (cu1,cu2)
+~ T=(v1,v2) = (v1-v2, v1+2v2)
+~ cu = c(u1,u2) = (cu1,cu2)
 ```
 ## Contoh Fungsi yang bukan transformasi Linier
 ```
@@ -92,3 +94,4 @@ A' = A1.A2
 T1 =
 T2 =
 ```
+## TT
